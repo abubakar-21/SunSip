@@ -1,0 +1,10 @@
+export { default as logo } from './logo.png';
+export { default as beer } from './beer.png';
+export { default as cannedCocktail } from './cannedCocktail.png';
+export { default as greatValue } from './greatValue.png';
+export { default as hardSeltzer } from './hardSeltzer.png';
+export { default as liquor } from './liquor.png';
+export { default as mixersNmore } from './mixersNmore.png';
+export { default as wine } from './wine.png';
+export { default as zeroProof } from './zeroProof.png';
+export { default as drink } from './drink.png';
